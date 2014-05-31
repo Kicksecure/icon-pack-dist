@@ -15,4 +15,7 @@ Standards-Version: 3.9.4
 Package: anon-icon-pack
 Architecture: all
 Depends: ${misc:Depends}
-Description: Icon Pack for Anonymity Distribution Gateways
+Description: Icon Pack for Anonymity Distributions
+ Contains icons, that are used by other anonymity distribution specific
+ packages. Others are welcome to use these icons according to their Free
+ licenses as well.
