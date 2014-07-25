@@ -20,89 +20,174 @@ License: GPL-3+
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-readme.ico
+Files: usr/share/icons/anon-icon-pack/readme.ico
+Copyright: Alessandro Rei
+Comment:
     Downloaded from: http://findicons.com/icon/254861/readme
     http://www.webcitation.org/6E754NgDd
     Icon Pack: Dark Glass
     Designer: Alessandro Rei
-    License: GNU/GPL
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-whonix.png
+Files: usr/share/icons/anon-icon-pack/whonix.png
+Copyright: CJ
+Comment:
     Original contributed by CJ for TorBOX (old project name)
     Rebranded and converted into png by Patrick Schleizer.
-    Same License as Whonix source code license.
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-torbrowser.png
+Files: usr/share/icons/anon-icon-pack/torbrowser.png
+Copyright:
+ Copyright (c) 2001-2004, Roger Dingledine
+ Copyright (c) 2004-2006, Roger Dingledine, Nick Mathewson
+ Copyright (c) 2007-2008, The Tor Project, Inc.
+Comment:
     From the Tor Browser Bundle
     https://gitweb.torproject.org/torbrowser.git/blob_plain/HEAD:/LICENSE
     http://www.webcitation.org/6E74cLVu8
-    License:
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
+License:
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are
+ met:
+ .
+     * Redistributions of source code must retain the above copyright
+ notice, this list of conditions and the following disclaimer.
+ .
+     * Redistributions in binary form must reproduce the above
+ copyright notice, this list of conditions and the following disclaimer
+ in the documentation and/or other materials provided with the
+ distribution.
+ .
+     * Neither the names of the copyright owners nor the names of its
+ contributors may be used to endorse or promote products derived from
+ this software without specific prior written permission.
+ .
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-    * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-
-    * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-
-    * Neither the names of the copyright owners nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-*****************************************************************************
-
-timesync.ico
+Files: usr/share/icons/anon-icon-pack/timesync.ico
+Copyright: Oxygen Team
+Comment:
     Downloaded from: http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Apps-preferences-system-time-icon.html
     http://www.webcitation.org/6E74mVLa7
     http://www.webcitation.org/6E74mhnk7
     Icon Pack: Oxygen Icons
     Designer: Oxygen Team
-    License: GNU Lesser General Public License
+License: LGPL-3
+ This library is free software; you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public License
+ along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
+ 02110-1301, USA.
+ .
+ On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
+ License can be found in `/usr/share/common-licenses/LGPL-3'.
 
-*****************************************************************************
-
-tbupdate.ico
+Files: usr/share/icons/anon-icon-pack/tbupdate.ico
+Copyright: Designer: Alexander Moore - http://www.famfamfam.com
+Comment:
     Downloaded from:
         http://findicons.com/icon/235497/system_software_update?id=235819
         http://archive.is/9R8Uq
     Designer: Alexander Moore - http://www.famfamfam.com
-    License: GNU/GPL
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-contribute.png
+Files: usr/share/icons/anon-icon-pack/contribute.png
+Copyright: Everaldo Coelho - http://www.everaldo.com/
+Comment:
     Downloaded from:
         http://www.iconfinder.com/icondetails/3578/128/earth_hand_internet_share_sharing_world_icon
         http://www.webcitation.org/6E76dHnyM
         http://www.webcitation.org/6E76gwf3A
     Designer: Everaldo Coelho - http://www.everaldo.com/
-    License: LGPL
+License: LGPL-3
+ This library is free software; you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public License
+ along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
+ 02110-1301, USA.
+ .
+ On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
+ License can be found in `/usr/share/common-licenses/LGPL-3'.
 
-*****************************************************************************
-
-donate.png
+Files: usr/share/icons/anon-icon-pack/donate.png
+Copyright: PC - http://pc.de/icons/
+Comment:
     Downloaded from:
         http://www.iconfinder.com/icondetails/59557/32/donate_icon
         http://www.webcitation.org/6E71V32sH
@@ -113,140 +198,356 @@ donate.png
         https://creativecommons.org/licenses/by/3.0/legalcode
         http://www.webcitation.org/6E71Wl5BZ
     Designer: PC - http://pc.de/icons/
-    License: Creative Commons (Attribution 3.0 Unported)
+    Creative Commons (Attribution 3.0 Unported)
+License: CC-BY 3.0
+ This work is licenced under the Creative Commons Attribution 3.0 Unported
+ License. To view a copy of this licence, visit
+ http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+ Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 
-*****************************************************************************
-
-forum.ico
+Files: usr/share/icons/anon-icon-pack/forum.ico
+Copyright: Oxygen Team - http://www.oxygen-icons.org
+Comment:
     Downloaded from:
        http://findicons.com/icon/238368/users?id=404720
        http://archive.is/NmNw9
     Designer: Oxygen Team - http://www.oxygen-icons.org
-    License: GNU/GPL
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-mailinglist.ico
+Files: usr/share/icons/anon-icon-pack/mailinglist.ico
+Copyright: Alessandro Rei - http://www.mentalrey.it
+Comment:
     Downloaded from:
         http://findicons.com/icon/254833/email?id=349526
         http://archive.is/OpsxQ
     Designer: Alessandro Rei - http://www.mentalrey.it
-    License: GNU/GPL
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-featureblog.ico
+Files: usr/share/icons/anon-icon-pack/featureblog.ico
+Copyright: David Vignoni - http://www.icon-king.com/
+Comment:
     Downloaded from:
         http://www.iconfinder.com/icondetails/1351/128/news_paper_icon
         http://www.webcitation.org/6E6pwHBPj
         https://www.gnu.org/licenses/lgpl.html
         http://www.webcitation.org/6E6qEeTrD
     Designer: David Vignoni - http://www.icon-king.com/
-    License: LGPL
+License: LGPL-3
+ This library is free software; you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public License
+ along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
+ 02110-1301, USA.
+ .
+ On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
+ License can be found in `/usr/share/common-licenses/LGPL-3'.
 
-*****************************************************************************
-
-importantblog.png
+Files: usr/share/icons/anon-icon-pack/importantblog.png
+Copyright: Lothar Grimme - http://www.grafixport.org
+Comment:
     Downloaded from:
     http://www.iconfinder.com/icondetails/203/128/alert_book_important_icon
     http://www.webcitation.org/6E9BEI19K
     https://www.gnu.org/copyleft/gpl.html
     http://www.webcitation.org/6E9BEPls9
     Designer: Lothar Grimme - http://www.grafixport.org
-    License: GPL
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-important.png
+Files: usr/share/icons/anon-icon-pack/important.png
+Copyright: Everaldo Coelho - http://www.everaldo.com/
+Comment:
     Downloaded from:
         http://www.iconfinder.com/icondetails/3660/128/file_important_icon
         http://www.webcitation.org/6E9AC3ndD
         https://www.gnu.org/licenses/lgpl.html
         http://www.webcitation.org/6E9AEDdfa
     Designer: Everaldo Coelho - http://www.everaldo.com/
-    License: LGPL
+License: LGPL-3
+ This library is free software; you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public License
+ along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
+ 02110-1301, USA.
+ .
+ On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
+ License can be found in `/usr/share/common-licenses/LGPL-3'.
 
-*****************************************************************************
-
-arm.ico
+Files: usr/share/icons/anon-icon-pack/arm.ico
+Copyright: Copyright (C) 2010 by Damian Johnson <atagar@torproject.org>
+License: GPL
+   This package is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; version 3 of the License.
+ .
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+ .
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, see .
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in `/usr/share/common-licenses/GPL-3'.
+Comment:
     Downloaded from:
         https://www.torproject.org/projects/arm.html.en
         https://www.torproject.org/images/screenshot_arm_page1_cropped.png
-    License:
-        Creative Commons Attribution 3.0 United States License
-        http://creativecommons.org/licenses/by/3.0/us/
 
-*****************************************************************************
-
-firewall.png
+Files: usr/share/icons/anon-icon-pack/firewall.png
+Copyright: Bdate Kaspar/Franziska Sponsel - http://rrze-icon-set.berlios.de/index.html
+Comment:
     Downloaded from:
         http://findicons.com/icon/84698/firewall?id=85058
-    License:
-        Creative Commons Attribution (by)
+    Designer: Bdate Kaspar/Franziska Sponsel
+License: CC-BY 3.0
+ This work is licenced under the Creative Commons Attribution 3.0 Unported
+ License. To view a copy of this licence, visit
+ http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+ Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 
-*****************************************************************************
-
-power_restart.ico
+Files: usr/share/icons/anon-icon-pack/power_restart.ico
+Copyright: chrfb - http://chrfb.deviantart.com/
+Comment:
     Downloaded from:
         http://findicons.com/icon/198204/power_restart?id=198637
-    License:
-        Creative Commons Attribution (by)
+    Designer: chrfb
+License: CC-BY 3.0
+ This work is licenced under the Creative Commons Attribution 3.0 Unported
+ License. To view a copy of this licence, visit
+ http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+ Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 
-*****************************************************************************
-
-quick_restart.ico
+Files: usr/share/icons/anon-icon-pack/quick_restart.ico
+Copyright: YellowIcon - http://yellowicon.com/
+Comment:
     Downloaded from:
         http://findicons.com/icon/169828/quick_restart?id=171792
-    License:
-        GNU/GPL
+    Designer: YellowIcon
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-Saki-NuoveXT-2-Actions-stop.ico
+Files: usr/share/icons/anon-icon-pack/Saki-NuoveXT-2-Actions-stop.ico
+Copyright: Saki - http://www.iconarchive.com/artist/saki.html
+Comment:
     Downloaded from:
         http://www.iconarchive.com/show/nuoveXT-2-icons-by-saki/Actions-stop-icon.html
-    License:
-        GNU General Public License
+    Artist: Saki
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-text_x_makefile.ico
+Files: usr/share/icons/anon-icon-pack/text_x_makefile.ico
+Copyright: Oxygen Team - http://www.oxygen-icons.org/
+Comment:
     Downloaded from:
         http://findicons.com/icon/237880/text_x_makefile?id=395569
-    License:
-        GNU/GPL
+    Designer: Oxygen Team
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-advancedsettings.ico
+Files: usr/share/icons/anon-icon-pack/advancedsettings.ico
+Copyright: YellowIcon - http://yellowicon.com/
+Comment:
     Downloaded from:
         http://findicons.com/icon/168533/advancedsettings?id=391891
-    License:
-        GNU/GPL
+    Designer: YellowIcon
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-restart.ico
+Files: usr/share/icons/anon-icon-pack/restart.ico
+Copyright:
     Downloaded from:
         http://findicons.com/icon/169219/restart?id=169219
-    License:
-        GNU/GPL
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-nerolinux.ico
+Files: usr/share/icons/anon-icon-pack/nerolinux.ico
+Copyright: schollidesign - http://schollidesign.deviantart.com/
+Comment:
     Downloaded from:
         http://findicons.com/icon/93644/nerolinux?id=274498
-    License:
-        GNU/GPL
+    Designer: schollidesign
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
 
-*****************************************************************************
-
-chat.png
+Files: usr/share/icons/anon-icon-pack/chat.png
+Copyright: Alessandro Rei - http://www.kde-look.org/usermanager/search.php?username=mentalrey
+Comment:
     Downloaded from:
         https://www.iconfinder.com/icons/6495/ksirc_icon
         http://www.webcitation.org/6PRmMuznr
         https://www.iconfinder.com/iconsets/DarkGlass_Reworked
         http://www.webcitation.org/6PRmQHMCl
-    License:
-        GNU/GPL
+License: GPL-3
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
