@@ -1,3 +1,15 @@
+commit 5dd1d2c71e6b0f1648316a3dfa7b85841e5f93de
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Aug 15 00:33:58 2015 +0000
+
+    scaled down firewall.png from 720x720 to 256x256 using 'convert -resize 256x256 firewall.png firewall.png_' because it was triggering a qrexec bug - https://phabricator.whonix.org/T393
+
+commit 2860fee0ff13f19130eac8ee11cfeab23b52ce81
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jun 3 14:59:00 2015 +0000
+
+    bumped changelog version
+
 commit 74bc5d3999a1e575bd3f7cac557c029ff3aae867
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 30 17:55:39 2015 +0000
