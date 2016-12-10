@@ -1,3 +1,31 @@
+commit d3e6e25f454cbd8f99cd1190016fe57d5100b85f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 21 17:38:49 2016 +0000
+
+    readme
+
+commit c6474e597b7921910c858f0d91d3f7eaa337016f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Jun 28 21:28:39 2016 +0000
+
+    add more refined Whonix banners
+    
+    https://forums.whonix.org/t/should-we-contact-ura-design-design-for-your-open-source-project/2509/38
+
+commit b87d27307d5f2a330f80b3cde5cd0045d0bb3ae2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jun 27 15:59:23 2016 +0200
+
+    add refined Whonix banners
+    
+    https://forums.whonix.org/t/should-we-contact-ura-design-design-for-your-open-source-project/2509/38
+
+commit 5c586a1ee2ff93f19b4ab9ce429be1d2dca97ca0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:07:36 2015 +0000
+
+    bumped changelog version
+
 commit b2432a5d2dd856f7faa96af390df31aef84271a6
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Aug 24 17:47:09 2015 +0000
