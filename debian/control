@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/Whonix/anon-icon-pack
 Vcs-Browser: https://github.com/Whonix/anon-icon-pack
 Vcs-Git: https://github.com/Whonix/anon-icon-pack.git
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 
 Package: anon-icon-pack
 Architecture: all
