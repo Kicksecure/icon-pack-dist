@@ -1,0 +1,6 @@
+## Copyright (C) 2019 - 2019 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+## False positives due to their name matching 'contribute' / 'readme'.
+anon-icon-pack: package-contains-documentation-outside-usr-share-doc usr/share/icons/anon-icon-pack/contribute.png
+anon-icon-pack: package-contains-documentation-outside-usr-share-doc usr/share/icons/anon-icon-pack/readme.ico
