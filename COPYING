@@ -131,23 +131,6 @@ Comment:
     Icon Pack: Oxygen Icons
     Designer: Oxygen Team
 License: LGPL-3
- This library is free software; you can redistribute it and/or modify
- it under the terms of the GNU Lesser General Public License as published by
- the Free Software Foundation; either version 3 of the License, or
- (at your option) any later version.
- .
- This library is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU Lesser General Public License for more details.
- .
- You should have received a copy of the GNU Lesser General Public License
- along with this library; if not, write to the Free Software
- Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
- 02110-1301, USA.
- .
- On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
- License can be found in `/usr/share/common-licenses/LGPL-3'.
 
 Files: usr/share/icons/anon-icon-pack/tbupdate.ico
 Copyright: Designer: Alexander Moore - http://www.famfamfam.com
@@ -167,23 +150,6 @@ Comment:
         http://www.webcitation.org/6E76gwf3A
     Designer: Everaldo Coelho - http://www.everaldo.com/
 License: LGPL-3
- This library is free software; you can redistribute it and/or modify
- it under the terms of the GNU Lesser General Public License as published by
- the Free Software Foundation; either version 3 of the License, or
- (at your option) any later version.
- .
- This library is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU Lesser General Public License for more details.
- .
- You should have received a copy of the GNU Lesser General Public License
- along with this library; if not, write to the Free Software
- Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
- 02110-1301, USA.
- .
- On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
- License can be found in `/usr/share/common-licenses/LGPL-3'.
 
 Files: usr/share/icons/anon-icon-pack/donate.png
 Copyright: PC - http://pc.de/icons/
@@ -229,23 +195,6 @@ Comment:
         http://www.webcitation.org/6E6qEeTrD
     Designer: David Vignoni - http://www.icon-king.com/
 License: LGPL-3
- This library is free software; you can redistribute it and/or modify
- it under the terms of the GNU Lesser General Public License as published by
- the Free Software Foundation; either version 3 of the License, or
- (at your option) any later version.
- .
- This library is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU Lesser General Public License for more details.
- .
- You should have received a copy of the GNU Lesser General Public License
- along with this library; if not, write to the Free Software
- Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
- 02110-1301, USA.
- .
- On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
- License can be found in `/usr/share/common-licenses/LGPL-3'.
 
 Files: usr/share/icons/anon-icon-pack/importantblog.png
 Copyright: Lothar Grimme - http://www.grafixport.org
@@ -268,23 +217,6 @@ Comment:
         http://www.webcitation.org/6E9AEDdfa
     Designer: Everaldo Coelho - http://www.everaldo.com/
 License: LGPL-3
- This library is free software; you can redistribute it and/or modify
- it under the terms of the GNU Lesser General Public License as published by
- the Free Software Foundation; either version 3 of the License, or
- (at your option) any later version.
- .
- This library is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU Lesser General Public License for more details.
- .
- You should have received a copy of the GNU Lesser General Public License
- along with this library; if not, write to the Free Software
- Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
- 02110-1301, USA.
- .
- On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
- License can be found in `/usr/share/common-licenses/LGPL-3'.
 
 Files: usr/share/icons/anon-icon-pack/arm.ico
 Copyright: Copyright (C) 2010 by Damian Johnson <atagar@torproject.org>
@@ -383,6 +315,25 @@ License: GPL-3
  On Debian systems, the full text of the GNU General Public
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
+
+License: LGPL-3
+ This library is free software; you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public License
+ along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
+ 02110-1301, USA.
+ .
+ On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
+ License can be found in `/usr/share/common-licenses/LGPL-3'.
 
 License: CC-BY-3.0
  THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
