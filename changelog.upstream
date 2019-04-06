@@ -1,3 +1,59 @@
+commit 18411f7ac1a52367fc261988e826e7e14923b4ed
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:59:40 2019 -0400
+
+    fix lintian warnings
+
+commit a1d412423acf8718b512810b7fccd64e7c57e5a5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:54:59 2019 -0400
+
+    unduplicate
+
+commit 0d36c84146bd89e6a7b997c188d7ded80415766c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:54:02 2019 -0400
+
+    simplification
+
+commit 942e5bccbdc58a050672cb1e5d493dd7631cc418
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:51:59 2019 -0400
+
+    unduplicate
+
+commit d331c23235d1169be37b94a0d9a0bc380b6912c8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:50:22 2019 -0400
+
+    simplification
+
+commit 1eda3eac85e0220c17bd466a635e1cf1e1a3ba7a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:47:19 2019 -0400
+
+    fix lintian warning
+    
+    W: anon-icon-pack source: incomplete-creative-commons-license cc-by-3.0 (paragraph at line 240)
+
+commit ecc1b88255a3c68652bac13368a7bf3ecf5564a0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 05:50:32 2019 -0400
+
+    port to debian buster
+
+commit 6268a87f395561afd2382eff33f7b9ecbc7680a2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 3 18:04:47 2019 -0400
+
+    readme
+
+commit 138ad1a12d5ff6dd86a3005c1607dc6388cd94b0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 29 09:42:07 2019 +0000
+
+    bumped changelog version
+
 commit d848397c3ec076799f71a66aa8a45a1f57661aee
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 29 09:02:44 2019 +0000
