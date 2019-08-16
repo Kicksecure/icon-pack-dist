@@ -1,3 +1,15 @@
+commit 34ca8b7b52fe5d637dda103f7e5495ea98a0838b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 15:49:42 2019 +0000
+
+    add usr/share/icons/anon-icon-pack/secbrowser.png
+
+commit 41d3c5acd405f05c04f2f5128109f08e22541170
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 1 11:20:20 2019 +0000
+
+    bumped changelog version
+
 commit 281091829281a451214bcbf5985017836af26e0a
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Aug 1 11:13:31 2019 +0000
