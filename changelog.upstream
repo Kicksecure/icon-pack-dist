@@ -1,3 +1,15 @@
+commit 8a2278430a2d4cdbafce22e3eddc3d7c853928af
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Oct 7 06:14:54 2019 +0000
+
+    remove white spaces from file names
+
+commit 163c925f73b89145ec43de3ee0f79134ac74c2b0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 16 15:57:40 2019 +0000
+
+    bumped changelog version
+
 commit 34ca8b7b52fe5d637dda103f7e5495ea98a0838b
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Aug 16 15:49:42 2019 +0000
