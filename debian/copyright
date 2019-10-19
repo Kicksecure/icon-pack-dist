@@ -91,8 +91,11 @@ Copyright:
  Copyright (c) 2007-2008, The Tor Project, Inc.
 Comment:
     From the Tor Browser Bundle
-    https://gitweb.torproject.org/torbrowser.git/blob_plain/HEAD:/LICENSE
+    https://gitweb.torproject.org/torbrowser.git/tree/LICENSE
     http://www.webcitation.org/6E74cLVu8
+    https://web.archive.org/web/20191019073733/https://gitweb.torproject.org/torbrowser.git/tree/LICENSE
+    https://trac.torproject.org/projects/tor/ticket/19652
+    https://web.archive.org/web/20190611222702/https://trac.torproject.org/projects/tor/ticket/19652
 License: BSD-3-clause
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions are
