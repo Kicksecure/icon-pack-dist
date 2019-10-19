@@ -1,3 +1,9 @@
+anon-icon-pack (3:2.7-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Sat, 19 Oct 2019 08:14:57 +0000
+
 anon-icon-pack (3:2.6-1) unstable; urgency=medium
 
   * New upstream version (local package).

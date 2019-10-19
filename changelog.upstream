@@ -1,3 +1,21 @@
+commit 721dfb13a7c4946df24c21ccb427762daca02f50
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Oct 19 03:40:07 2019 -0400
+
+    update usr/share/icons/anon-icon-pack/torbrowser.png
+    
+    import from ~/.tb/tor-browser/Browser/browser/chrome/icons/default/default64.png
+    
+    https://forums.whonix.org/t/tor-browser-icon-not-updated-to-the-new-purple-one/8306
+    
+    Thanks to AnonymousUser for the suggestion!
+
+commit 1b90c654242c114f9a31eeee28b4f2f4a7f6cbd5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Oct 14 10:15:37 2019 +0000
+
+    bumped changelog version
+
 commit 8a2278430a2d4cdbafce22e3eddc3d7c853928af
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Oct 7 06:14:54 2019 +0000
