@@ -37,9 +37,15 @@ sudo apt-get update
 sudo apt-get install anon-icon-pack
 ```
 
-## How to Build deb Package ##
+## How to Build deb Package from Source Code ##
 
-Replace `apparmor-profile-torbrowser` with the actual name of this package with `anon-icon-pack` and see [instructions](https://www.whonix.org/wiki/Dev/Build_Documentation/apparmor-profile-torbrowser).
+Can be build using standard Debian package build tools such as:
+
+```
+dpkg-buildpackage -b
+```
+
+See [instructions](https://www.whonix.org/wiki/Dev/Build_Documentation/anon-icon-pack). (Replace `package-name` with the actual name of this package.)
 
 ## Contact ##
 
