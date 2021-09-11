@@ -1,3 +1,9 @@
+anon-icon-pack (3:3.3-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Sat, 11 Sep 2021 22:31:56 +0000
+
 anon-icon-pack (3:3.2-1) unstable; urgency=medium
 
   * New upstream version (local package).
