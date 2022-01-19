@@ -1,3 +1,27 @@
+commit cfa4a45ef9db6edbb08b9a4b602f9c05b1d9535a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jan 19 07:58:24 2022 -0500
+
+    minor
+
+commit 6592b37cfed4db2b6e8a2cb856a6f4550ccbbfa7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Jan 19 07:56:14 2022 -0500
+
+    renamed:    usr/share/icons/anon-icon-pack/arm.ico -> usr/share/icons/anon-icon-pack/nyx.ico
+
+commit e0ec0b39b94db0da75328109e5b8791ba060aaf1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Nov 9 14:32:27 2021 -0500
+
+    readme
+
+commit 39dd1b28b2a4832dfe920c468fbc6ed1d2ad8917
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Sep 11 18:31:56 2021 -0400
+
+    bumped changelog version
+
 commit df510e1be69cfef3b19c6499d4a71845500c1537
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Sep 11 16:31:04 2021 -0400
