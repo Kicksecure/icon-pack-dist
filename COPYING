@@ -221,12 +221,13 @@ Comment:
     Designer: Everaldo Coelho - http://www.everaldo.com/
 License: LGPL-3
 
-Files: usr/share/icons/anon-icon-pack/arm.ico
+Files: usr/share/icons/anon-icon-pack/nyx.ico
 Copyright: Copyright (C) 2010 by Damian Johnson <atagar@torproject.org>
 License: GPL-3
 Comment:
     Downloaded from:
         https://www.torproject.org/projects/arm.html.en
+        https://2019.www.torproject.org/projects/nyx.html.en
         https://www.torproject.org/images/screenshot_arm_page1_cropped.png
 
 Files: usr/share/icons/anon-icon-pack/firewall.png
