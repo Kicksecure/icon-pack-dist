@@ -2,5 +2,5 @@
 ## See the file COPYING for copying conditions.
 
 version=4
-opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/anon-icon-pack-$1\.tar\.gz/ \
-  https://github.com/Whonix/anon-icon-pack/tags .*/v?(\d\S+)\.tar\.gz
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/icon-pack-dist-$1\.tar\.gz/ \
+  https://github.com/Whonix/icon-pack-dist/tags .*/v?(\d\S+)\.tar\.gz

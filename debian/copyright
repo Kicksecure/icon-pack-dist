@@ -75,7 +75,7 @@ License: GPL-3+-with-additional-terms-1
  ATTORNEYS' FEES AND EXPENSES) OR ANY OTHER LIABILITY ARISING FROM, RELATED TO OR
  IN CONNECTION WITH YOUR ASSUMPTIONS OF LIABILITY.
 
-Files: usr/share/icons/anon-icon-pack/readme.ico
+Files: usr/share/icons/icon-pack-dist/readme.ico
 Copyright: Alessandro Rei
 Comment:
     Downloaded from: http://findicons.com/icon/254861/readme
@@ -84,7 +84,7 @@ Comment:
     Designer: Alessandro Rei
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/torbrowser.png
+Files: usr/share/icons/icon-pack-dist/torbrowser.png
 Copyright:
  Copyright (c) 2001-2004, Roger Dingledine
  Copyright (c) 2004-2006, Roger Dingledine, Nick Mathewson
@@ -125,7 +125,7 @@ License: BSD-3-clause
  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Files: usr/share/icons/anon-icon-pack/timesync.ico
+Files: usr/share/icons/icon-pack-dist/timesync.ico
 Copyright: Oxygen Team
 Comment:
     Downloaded from: http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Apps-preferences-system-time-icon.html
@@ -135,7 +135,7 @@ Comment:
     Designer: Oxygen Team
 License: LGPL-3
 
-Files: usr/share/icons/anon-icon-pack/tbupdate.ico
+Files: usr/share/icons/icon-pack-dist/tbupdate.ico
 Copyright: Designer: Alexander Moore - http://www.famfamfam.com
 Comment:
     Downloaded from:
@@ -144,7 +144,7 @@ Comment:
     Designer: Alexander Moore - http://www.famfamfam.com
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/contribute.png
+Files: usr/share/icons/icon-pack-dist/contribute.png
 Copyright: Everaldo Coelho - http://www.everaldo.com/
 Comment:
     Downloaded from:
@@ -154,7 +154,7 @@ Comment:
     Designer: Everaldo Coelho - http://www.everaldo.com/
 License: LGPL-3
 
-Files: usr/share/icons/anon-icon-pack/donate.png
+Files: usr/share/icons/icon-pack-dist/donate.png
 Copyright: PC - http://pc.de/icons/
 Comment:
     Downloaded from:
@@ -170,7 +170,7 @@ Comment:
     Creative Commons (Attribution 3.0 Unported)
 License: CC-BY-3.0
 
-Files: usr/share/icons/anon-icon-pack/forum.ico
+Files: usr/share/icons/icon-pack-dist/forum.ico
 Copyright: Oxygen Team - http://www.oxygen-icons.org
 Comment:
     Downloaded from:
@@ -179,7 +179,7 @@ Comment:
     Designer: Oxygen Team - http://www.oxygen-icons.org
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/mailinglist.ico
+Files: usr/share/icons/icon-pack-dist/mailinglist.ico
 Copyright: Alessandro Rei - http://www.mentalrey.it
 Comment:
     Downloaded from:
@@ -188,7 +188,7 @@ Comment:
     Designer: Alessandro Rei - http://www.mentalrey.it
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/featureblog.ico
+Files: usr/share/icons/icon-pack-dist/featureblog.ico
 Copyright: David Vignoni - http://www.icon-king.com/
 Comment:
     Downloaded from:
@@ -199,7 +199,7 @@ Comment:
     Designer: David Vignoni - http://www.icon-king.com/
 License: LGPL-3
 
-Files: usr/share/icons/anon-icon-pack/importantblog.png
+Files: usr/share/icons/icon-pack-dist/importantblog.png
 Copyright: Lothar Grimme - http://www.grafixport.org
 Comment:
     Downloaded from:
@@ -210,7 +210,7 @@ Comment:
     Designer: Lothar Grimme - http://www.grafixport.org
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/important.png
+Files: usr/share/icons/icon-pack-dist/important.png
 Copyright: Everaldo Coelho - http://www.everaldo.com/
 Comment:
     Downloaded from:
@@ -221,7 +221,7 @@ Comment:
     Designer: Everaldo Coelho - http://www.everaldo.com/
 License: LGPL-3
 
-Files: usr/share/icons/anon-icon-pack/nyx.ico
+Files: usr/share/icons/icon-pack-dist/nyx.ico
 Copyright: Copyright (C) 2010 by Damian Johnson <atagar@torproject.org>
 License: GPL-3
 Comment:
@@ -230,7 +230,7 @@ Comment:
         https://2019.www.torproject.org/projects/nyx.html.en
         https://www.torproject.org/images/screenshot_arm_page1_cropped.png
 
-Files: usr/share/icons/anon-icon-pack/firewall.png
+Files: usr/share/icons/icon-pack-dist/firewall.png
 Copyright: Bdate Kaspar/Franziska Sponsel - http://rrze-icon-set.berlios.de/index.html
 Comment:
     Downloaded from:
@@ -238,7 +238,7 @@ Comment:
     Designer: Bdate Kaspar/Franziska Sponsel
 License: CC-BY-3.0
 
-Files: usr/share/icons/anon-icon-pack/power_restart.ico
+Files: usr/share/icons/icon-pack-dist/power_restart.ico
 Copyright: chrfb - http://chrfb.deviantart.com/
 Comment:
     Downloaded from:
@@ -246,7 +246,7 @@ Comment:
     Designer: chrfb
 License: CC-BY-3.0
 
-Files: usr/share/icons/anon-icon-pack/quick_restart.ico
+Files: usr/share/icons/icon-pack-dist/quick_restart.ico
 Copyright: YellowIcon - http://yellowicon.com/
 Comment:
     Downloaded from:
@@ -254,7 +254,7 @@ Comment:
     Designer: YellowIcon
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/Saki-NuoveXT-2-Actions-stop.ico
+Files: usr/share/icons/icon-pack-dist/Saki-NuoveXT-2-Actions-stop.ico
 Copyright: Saki - http://www.iconarchive.com/artist/saki.html
 Comment:
     Downloaded from:
@@ -262,7 +262,7 @@ Comment:
     Artist: Saki
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/text_x_makefile.ico
+Files: usr/share/icons/icon-pack-dist/text_x_makefile.ico
 Copyright: Oxygen Team - http://www.oxygen-icons.org/
 Comment:
     Downloaded from:
@@ -270,7 +270,7 @@ Comment:
     Designer: Oxygen Team
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/advancedsettings.ico
+Files: usr/share/icons/icon-pack-dist/advancedsettings.ico
 Copyright: YellowIcon - http://yellowicon.com/
 Comment:
     Downloaded from:
@@ -278,13 +278,13 @@ Comment:
     Designer: YellowIcon
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/restart.ico
+Files: usr/share/icons/icon-pack-dist/restart.ico
 Copyright:
     Downloaded from:
         http://findicons.com/icon/169219/restart?id=169219
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/nerolinux.ico
+Files: usr/share/icons/icon-pack-dist/nerolinux.ico
 Copyright: schollidesign - http://schollidesign.deviantart.com/
 Comment:
     Downloaded from:
@@ -292,7 +292,7 @@ Comment:
     Designer: schollidesign
 License: GPL-3
 
-Files: usr/share/icons/anon-icon-pack/chat.png
+Files: usr/share/icons/icon-pack-dist/chat.png
 Copyright: Alessandro Rei - http://www.kde-look.org/usermanager/search.php?username=mentalrey
 Comment:
     Downloaded from:
@@ -546,7 +546,7 @@ License: CC-BY-3.0
     communication from You. This License may not be modified without the mutual
     written agreement of the Licensor and You.
 
-Files: usr/share/icons/anon-icon-pack/secbrowser.png
+Files: usr/share/icons/icon-pack-dist/secbrowser.png
 Copyright: Crystal Project - https://www.iconfinder.com/iconsets/crystalproject
 Comment:
     Downloaded from:

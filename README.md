@@ -3,7 +3,7 @@
 Contains icons, that are used by other anonymity distribution specific
 packages. Others are welcome to use these icons according to their Free
 licenses as well.
-## How to install `anon-icon-pack` using apt-get ##
+## How to install `icon-pack-dist` using apt-get ##
 
 1\. Download the APT Signing Key.
 
@@ -31,10 +31,10 @@ echo "deb [signed-by=/usr/share/keyrings/derivative.asc] https://deb.whonix.org 
 sudo apt-get update
 ```
 
-5\. Install `anon-icon-pack`.
+5\. Install `icon-pack-dist`.
 
 ```
-sudo apt-get install anon-icon-pack
+sudo apt-get install icon-pack-dist
 ```
 
 ## How to Build deb Package from Source Code ##
@@ -45,7 +45,7 @@ Can be build using standard Debian package build tools such as:
 dpkg-buildpackage -b
 ```
 
-See instructions. (Replace `generic-package` with the actual name of this package `anon-icon-pack`.)
+See instructions. (Replace `generic-package` with the actual name of this package `icon-pack-dist`.)
 
 * **A)** [easy](https://www.whonix.org/wiki/Dev/Build_Documentation/generic-package/easy), _OR_
 * **B)** [including verifying software signatures](https://www.whonix.org/wiki/Dev/Build_Documentation/generic-package)
@@ -57,4 +57,4 @@ See instructions. (Replace `generic-package` with the actual name of this packag
 
 ## Donate ##
 
-`anon-icon-pack` requires [donations](https://www.whonix.org/wiki/Donate) to stay alive!
+`icon-pack-dist` requires [donations](https://www.whonix.org/wiki/Donate) to stay alive!
