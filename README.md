@@ -1,6 +1,6 @@
-# Icon Pack for Anonymity Distributions #
+# Icon Pack for Derivative Distributions #
 
-Contains icons, that are used by other anonymity distribution specific
+Contains icons, that are used by other derivative distribution specific
 packages. Others are welcome to use these icons according to their Free
 licenses as well.
 ## How to install `icon-pack-dist` using apt-get ##

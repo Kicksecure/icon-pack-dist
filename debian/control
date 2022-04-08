@@ -18,7 +18,7 @@ Provides: anon-icon-pack
 Replaces: anon-icon-pack
 Conflicts: anon-icon-pack
 Depends: ${misc:Depends}
-Description: Icon Pack for Anonymity Distributions
- Contains icons, that are used by other anonymity distribution specific
+Description: Icon Pack for Derivative Distributions
+ Contains icons, that are used by other derivative distribution specific
  packages. Others are welcome to use these icons according to their Free
  licenses as well.
