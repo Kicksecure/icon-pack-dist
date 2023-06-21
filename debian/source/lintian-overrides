@@ -1,4 +1,4 @@
 ## https://phabricator.whonix.org/T277
-debian-watch-does-not-check-gpg-signature
+debian-watch-does-not-check-openpgp-signature
 
 source: very-long-line-length-in-source-file 11952 > 512 [usr/share/icon-pack-dist/whonix_banners/Banners.ai:34]
