@@ -1,3 +1,22 @@
+commit d4d908b3f7c98bc87a44db979ab874d6cfd79115
+Merge: 304891d b484514
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 24 15:29:56 2024 -0400
+
+    Merge remote-tracking branch 'grass/logo'
+
+commit b48451495839385dad1e260ca6755bfb867eb652
+Author: grass <grass@danwin1210.de>
+Date:   Wed Apr 24 12:25:52 2024 +0000
+
+    Add Kicksecure and Whonix logos
+
+commit 304891dfa011f5a5c9febdce65aea510d7447eea
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 20:16:12 2023 +0000
+
+    bumped changelog version
+
 commit b94978c317944c49888ef5951f7aea02e5011a3b
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Nov 11 14:43:08 2023 -0500
