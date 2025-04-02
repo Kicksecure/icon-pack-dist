@@ -1,3 +1,17 @@
+commit 33b6c1fb76d143c1a6333fdf3c06029fef2bbc82
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Apr 2 13:09:58 2025 -0400
+
+    remove unused folder `/usr/share/icon-pack-dist/whonix_banners/SVG`
+    
+    to avoid unicode
+
+commit 38bc7213632f82499639d95ccea15a5c66bec77b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jan 23 16:21:16 2025 +0000
+
+    bumped changelog version
+
 commit 57ea4c9e58e67d5f5532507908351aa1f320b42c
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Jan 23 11:10:31 2025 -0500

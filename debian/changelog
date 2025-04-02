@@ -1,3 +1,9 @@
+icon-pack-dist (3:4.7-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Wed, 02 Apr 2025 18:15:59 +0000
+
 icon-pack-dist (3:4.6-1) unstable; urgency=medium
 
   * New upstream version (local package).
