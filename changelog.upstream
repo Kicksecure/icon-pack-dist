@@ -1,3 +1,36 @@
+commit 6f2716fa38d8e3c171bc07346f7cdb1059a7333a
+Merge: 065b6d7 16eec34
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 27 05:44:21 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/trixie'
+
+commit 16eec34c689b8a4293565a388886244f1fc263c3
+Merge: 673e954 065b6d7
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Aug 26 19:19:45 2025 -0500
+
+    Merge branch 'master' into arraybolt3/trixie
+
+commit 065b6d7a4a34646b5613396ea7013a674df3eb15
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 26 09:06:43 2025 +0000
+
+    bumped changelog version
+
+commit 673e954d34cee8587cfdf760e7ead19cf4cee6e8
+Merge: ba07806 b1676aa
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Thu Aug 21 19:51:40 2025 -0500
+
+    Merge branch 'master' into arraybolt3/trixie
+
+commit ba078068881bf1cf75f217446bee909a5381a33f
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Thu Aug 21 18:20:39 2025 -0500
+
+    Add rounded version of Kicksecure logo for start button
+
 commit b1676aac13ddab7270249b12049ab3238ef30646
 Merge: 3fa5454 d712f1a
 Author: Patrick Schleizer <adrelanos@whonix.org>
