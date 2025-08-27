@@ -1,0 +1,31 @@
+<svg width="40mm" height="40mm" version="1.1" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.43468" y="-.42718" width="2.034" height="2.0162" color-interpolation-filters="sRGB">
+   <feFlood flood-opacity=".251" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="1.1"/>
+   <feOffset dx="1" dy="1" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <filter id="b" x="-.42121" y="-.19662" width="2.002" height="1.4677" color-interpolation-filters="sRGB">
+   <feFlood flood-opacity=".251" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="1.1"/>
+   <feOffset dx="1" dy="1" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <filter id="c" x="-.17333" y="-.16696" width="1.4123" height="1.3972" color-interpolation-filters="sRGB">
+   <feFlood flood-opacity=".251" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="1.1"/>
+   <feOffset dx="1" dy="1" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+ </defs>
+ <rect width="40" height="40" ry="4.9854" fill="#3c6ac4" stroke-width=".05"/>
+ <g fill-rule="evenodd">
+  <path transform="translate(3.253 -2162.8) scale(1.5505)" d="m14.312 1409-1.742 3.649 1.444 1.706c.305.383.932.825 1.972.825h2.008c.7 0 .812-.583.442-1z" fill="#a3cfff" filter="url(#a)"/>
+  <path transform="translate(3.253 -2162.8) scale(1.5505)" d="m8.283 1398.9-3.21 2.087c-.449.322-.654.458-.85 1.231l-1.165 9.957 6.205-12.647c.311-.723-.618-.97-.98-.628z" fill="#a3cfff" filter="url(#b)"/>
+  <path transform="translate(3.253 -2162.8) scale(1.5505)" d="m16.844 1399.5-5.202 6.418-3.031-3.511-5.812 11.796c-.214.766.82 1.023 1.098.642l5.113-6.112 2.967 3.598 5.949-12.158c.338-.693-.55-1.37-1.082-.673z" fill="#fff215" filter="url(#c)"/>
+ </g>
+</svg>
