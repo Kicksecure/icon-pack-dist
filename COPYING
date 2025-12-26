@@ -10,8 +10,7 @@ License: AGPL-3+
 Files: usr/share/icons/icon-pack-dist/readme.ico
 Copyright: Alessandro Rei
 Comment:
-    Downloaded from: http://findicons.com/icon/254861/readme
-    http://www.webcitation.org/6E754NgDd
+    Downloaded from: https://web.archive.org/web/20210302103553/http://findicons.com/icon/254861/readme
     Icon Pack: Dark Glass
     Designer: Alessandro Rei
 License: GPL-3
@@ -23,10 +22,10 @@ Copyright:
  Copyright (c) 2007-2008, The Tor Project, Inc.
 Comment:
     From the Tor Browser Bundle
-    https://gitweb.torproject.org/torbrowser.git/tree/LICENSE
-    http://www.webcitation.org/6E74cLVu8
+    https://gitlab.torproject.org/legacy/gitolite/torbrowser/-/blob/HEAD/LICENSE
+    https://www.webcitation.org/6E74cLVu8
     https://web.archive.org/web/20191019073733/https://gitweb.torproject.org/torbrowser.git/tree/LICENSE
-    https://trac.torproject.org/projects/tor/ticket/19652
+    https://gitlab.torproject.org/legacy/trac/-/issues/19652
     https://web.archive.org/web/20190611222702/https://trac.torproject.org/projects/tor/ticket/19652
 License: BSD-3-clause
  Redistribution and use in source and binary forms, with or without
@@ -60,97 +59,96 @@ License: BSD-3-clause
 Files: usr/share/icons/icon-pack-dist/timesync.ico
 Copyright: Oxygen Team
 Comment:
-    Downloaded from: http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Apps-preferences-system-time-icon.html
-    http://www.webcitation.org/6E74mVLa7
-    http://www.webcitation.org/6E74mhnk7
+    Downloaded from: https://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Apps-preferences-system-time-icon.html
+    https://www.webcitation.org/6E74mVLa7
+    https://www.webcitation.org/6E74mhnk7
     Icon Pack: Oxygen Icons
     Designer: Oxygen Team
 License: LGPL-3
 
 Files: usr/share/icons/icon-pack-dist/tbupdate.ico
-Copyright: Designer: Alexander Moore - http://www.famfamfam.com
+Copyright: Designer: Alexander Moore - https://web.archive.org/web/20130216030254/http://famfamfam.com/
 Comment:
     Downloaded from:
-        http://findicons.com/icon/235497/system_software_update?id=235819
-        http://archive.is/9R8Uq
-    Designer: Alexander Moore - http://www.famfamfam.com
+        https://archive.ph/9R8Uq
+    Designer: Alexander Moore - https://web.archive.org/web/20130216030254/http://famfamfam.com/
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/contribute.png
-Copyright: Everaldo Coelho - http://www.everaldo.com/
+Copyright: Everaldo Coelho - https://web.archive.org/web/20130228073005/http://www.everaldo.com/#3cf/twitter
 Comment:
     Downloaded from:
-        http://www.iconfinder.com/icondetails/3578/128/earth_hand_internet_share_sharing_world_icon
-        http://www.webcitation.org/6E76dHnyM
-        http://www.webcitation.org/6E76gwf3A
-    Designer: Everaldo Coelho - http://www.everaldo.com/
+        https://web.archive.org/web/20130308004516/http://www.iconfinder.com/icondetails/3578/128/earth_hand_internet_share_sharing_world_icon
+        https://www.webcitation.org/6E76dHnyM
+        https://www.webcitation.org/6E76gwf3A
+    Designer: Everaldo Coelho - https://web.archive.org/web/20130228073005/http://www.everaldo.com/#3cf/twitter
 License: LGPL-3
 
 Files: usr/share/icons/icon-pack-dist/donate.png
-Copyright: PC - http://pc.de/icons/
+Copyright: PC - https://web.archive.org/web/20140228000442/http://pc.de/icons/
 Comment:
     Downloaded from:
-        http://www.iconfinder.com/icondetails/59557/32/donate_icon
-        http://www.webcitation.org/6E71V32sH
-        http://www.iconfinder.com/browse/iconset/hamburg/#readme
-        http://www.webcitation.org/6E71Ve8z6
+        https://web.archive.org/web/20130529035112/http://www.iconfinder.com/icondetails/59557/32/donate_icon
+        https://www.webcitation.org/6E71V32sH
+        https://web.archive.org/web/20130101004148/http://www.iconfinder.com/browse/iconset/hamburg/#readme
+        https://www.webcitation.org/6E71Ve8z6
         https://creativecommons.org/licenses/by/3.0/
-        http://www.webcitation.org/6E71WCyxl
+        https://www.webcitation.org/6E71WCyxl
         https://creativecommons.org/licenses/by/3.0/legalcode
-        http://www.webcitation.org/6E71Wl5BZ
-    Designer: PC - http://pc.de/icons/
+        https://www.webcitation.org/6E71Wl5BZ
+    Designer: PC - https://web.archive.org/web/20140228000442/http://pc.de/icons/
     Creative Commons (Attribution 3.0 Unported)
 License: CC-BY-3.0
 
 Files: usr/share/icons/icon-pack-dist/forum.ico
-Copyright: Oxygen Team - http://www.oxygen-icons.org
+Copyright: Oxygen Team - https://web.archive.org/web/20130203023402/http://www.oxygen-icons.org/
 Comment:
     Downloaded from:
-       http://findicons.com/icon/238368/users?id=404720
-       http://archive.is/NmNw9
-    Designer: Oxygen Team - http://www.oxygen-icons.org
+       https://web.archive.org/web/20160801132334/http://findicons.com/icon/238368/users?id=404720
+       https://archive.ph/NmNw9
+    Designer: Oxygen Team - https://web.archive.org/web/20130203023402/http://www.oxygen-icons.org/
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/mailinglist.ico
-Copyright: Alessandro Rei - http://www.mentalrey.it
+Copyright: Alessandro Rei - https://web.archive.org/web/20130123194822/http://www.mentalrey.it/
 Comment:
     Downloaded from:
-        http://findicons.com/icon/254833/email?id=349526
-        http://archive.is/OpsxQ
-    Designer: Alessandro Rei - http://www.mentalrey.it
+        https://web.archive.org/web/20130930182928/http://findicons.com/icon/254833/email?id=349526
+        https://archive.ph/OpsxQ
+    Designer: Alessandro Rei - https://web.archive.org/web/20130123194822/http://www.mentalrey.it/
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/featureblog.ico
-Copyright: David Vignoni - http://www.icon-king.com/
+Copyright: David Vignoni - https://web.archive.org/web/20130323134543/http://www.icon-king.com/
 Comment:
     Downloaded from:
-        http://www.iconfinder.com/icondetails/1351/128/news_paper_icon
-        http://www.webcitation.org/6E6pwHBPj
-        https://www.gnu.org/licenses/lgpl.html
-        http://www.webcitation.org/6E6qEeTrD
-    Designer: David Vignoni - http://www.icon-king.com/
+        https://web.archive.org/web/20130509023915/http://www.iconfinder.com/icondetails/1351/128/news_paper_icon
+        https://www.webcitation.org/6E6pwHBPj
+        https://www.gnu.org/licenses/lgpl-3.0.html
+        https://www.webcitation.org/6E6qEeTrD
+    Designer: David Vignoni - https://web.archive.org/web/20130323134543/http://www.icon-king.com/
 License: LGPL-3
 
 Files: usr/share/icons/icon-pack-dist/importantblog.png
-Copyright: Lothar Grimme - http://www.grafixport.org
+Copyright: Lothar Grimme - https://web.archive.org/web/20111227111427/http://www.grafixport.org/
 Comment:
     Downloaded from:
-    http://www.iconfinder.com/icondetails/203/128/alert_book_important_icon
-    http://www.webcitation.org/6E9BEI19K
+    https://web.archive.org/web/20130605063312/http://www.iconfinder.com/icondetails/203/128/alert_book_important_icon
+    https://www.webcitation.org/6E9BEI19K
     https://www.gnu.org/copyleft/gpl.html
-    http://www.webcitation.org/6E9BEPls9
-    Designer: Lothar Grimme - http://www.grafixport.org
+    https://www.webcitation.org/6E9BEPls9
+    Designer: Lothar Grimme - https://web.archive.org/web/20111227111427/http://www.grafixport.org/
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/important.png
-Copyright: Everaldo Coelho - http://www.everaldo.com/
+Copyright: Everaldo Coelho - https://web.archive.org/web/20130228073005/http://www.everaldo.com/#3cf/twitter
 Comment:
     Downloaded from:
-        http://www.iconfinder.com/icondetails/3660/128/file_important_icon
-        http://www.webcitation.org/6E9AC3ndD
-        https://www.gnu.org/licenses/lgpl.html
-        http://www.webcitation.org/6E9AEDdfa
-    Designer: Everaldo Coelho - http://www.everaldo.com/
+        https://web.archive.org/web/20120203100122/http://www.iconfinder.com/icondetails/3660/128/file_important_icon
+        https://www.webcitation.org/6E9AC3ndD
+        https://www.gnu.org/licenses/lgpl-3.0.html
+        https://www.webcitation.org/6E9AEDdfa
+    Designer: Everaldo Coelho - https://web.archive.org/web/20130228073005/http://www.everaldo.com/#3cf/twitter
 License: LGPL-3
 
 Files: usr/share/icons/icon-pack-dist/nyx.ico
@@ -158,12 +156,12 @@ Copyright: Copyright (C) 2010 by Damian Johnson <atagar@torproject.org>
 License: GPL-3
 Comment:
     Downloaded from:
-        https://www.torproject.org/projects/arm.html.en
+        https://web.archive.org/web/20140122054450/https://www.torproject.org/projects/arm.html.en
         https://2019.www.torproject.org/projects/nyx.html.en
-        https://www.torproject.org/images/screenshot_arm_page1_cropped.png
+        https://web.archive.org/web/20130308234314/https://www.torproject.org/images/screenshot_arm_page1_cropped.png
 
 Files: usr/share/icons/icon-pack-dist/firewall.png
-Copyright: Bdate Kaspar/Franziska Sponsel - http://rrze-icon-set.berlios.de/index.html
+Copyright: Bdate Kaspar/Franziska Sponsel - https://web.archive.org/web/20110826102204/http://rrze-icon-set.berlios.de/index.html
 Comment:
     Downloaded from:
         http://findicons.com/icon/84698/firewall?id=85058
@@ -171,7 +169,7 @@ Comment:
 License: CC-BY-3.0
 
 Files: usr/share/icons/icon-pack-dist/power_restart.ico
-Copyright: chrfb - http://chrfb.deviantart.com/
+Copyright: chrfb - https://web.archive.org/web/20181211112023/https://www.deviantart.com/chrfb
 Comment:
     Downloaded from:
         http://findicons.com/icon/198204/power_restart?id=198637
@@ -179,7 +177,7 @@ Comment:
 License: CC-BY-3.0
 
 Files: usr/share/icons/icon-pack-dist/quick_restart.ico
-Copyright: YellowIcon - http://yellowicon.com/
+Copyright: YellowIcon - https://web.archive.org/web/20130325080842/http://www.yellowicon.com/
 Comment:
     Downloaded from:
         http://findicons.com/icon/169828/quick_restart?id=171792
@@ -187,15 +185,15 @@ Comment:
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/Saki-NuoveXT-2-Actions-stop.ico
-Copyright: Saki - http://www.iconarchive.com/artist/saki.html
+Copyright: Saki - https://web.archive.org/web/20130202140728/http://www.iconarchive.com/artist/saki.html
 Comment:
     Downloaded from:
-        http://www.iconarchive.com/show/nuoveXT-2-icons-by-saki/Actions-stop-icon.html
+        https://web.archive.org/web/20250808140635/https://www.iconarchive.com/show/nuoveXT-2-icons-by-saki/Actions-stop-icon.html
     Artist: Saki
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/text_x_makefile.ico
-Copyright: Oxygen Team - http://www.oxygen-icons.org/
+Copyright: Oxygen Team - https://web.archive.org/web/20130203023402/http://www.oxygen-icons.org/
 Comment:
     Downloaded from:
         http://findicons.com/icon/237880/text_x_makefile?id=395569
@@ -206,7 +204,7 @@ Files: usr/share/icons/icon-pack-dist/advancedsettings.ico
 Copyright: YellowIcon - http://yellowicon.com/
 Comment:
     Downloaded from:
-        http://findicons.com/icon/168533/advancedsettings?id=391891
+        https://web.archive.org/web/20210420052255/http://findicons.com/icon/168533/advancedsettings?id=391891
     Designer: YellowIcon
 License: GPL-3
 
@@ -225,21 +223,21 @@ Comment:
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/chat.png
-Copyright: Alessandro Rei - http://www.kde-look.org/usermanager/search.php?username=mentalrey
+Copyright: Alessandro Rei - https://web.archive.org/web/20130412024009/http://www.kde-look.org/usermanager/search.php?username=mentalrey
 Comment:
     Downloaded from:
-        https://www.iconfinder.com/icons/6495/ksirc_icon
-        http://www.webcitation.org/6PRmMuznr
-        https://www.iconfinder.com/iconsets/DarkGlass_Reworked
-        http://www.webcitation.org/6PRmQHMCl
+        https://web.archive.org/web/20130913053538/https://www.iconfinder.com/icons/6495/ksirc_icon
+        https://www.webcitation.org/6PRmMuznr
+        https://web.archive.org/web/20130501110235/https://www.iconfinder.com/iconsets/DarkGlass_Reworked
+        https://www.webcitation.org/6PRmQHMCl
 License: GPL-3
 
 Files: usr/share/icons/icon-pack-dist/secbrowser.png
-Copyright: Crystal Project - https://www.iconfinder.com/iconsets/crystalproject
+Copyright: Crystal Project - https://web.archive.org/web/20130513111823/https://www.iconfinder.com/iconsets/crystalproject
 Comment:
     Downloaded from:
-        https://www.iconfinder.com/icons/17856/browser_icon
-        https://archive.is/b9WSR
+        https://web.archive.org/web/20151105052343/https://www.iconfinder.com/icons/17856/browser_icon
+        https://archive.ph/b9WSR
 License: LGPL-3
 
 License: GPL-3
@@ -254,7 +252,7 @@ License: GPL-3
  GNU General Public License for more details.
  .
  You should have received a copy of the GNU General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
  .
  On Debian systems, the full text of the GNU General Public
  License version 3 can be found in the file
@@ -272,9 +270,7 @@ License: LGPL-3
  GNU Lesser General Public License for more details.
  .
  You should have received a copy of the GNU Lesser General Public License
- along with this library; if not, write to the Free Software
- Foundation, Inc., 51 Franklin Street - Fifth Floor, Boston, MA
- 02110-1301, USA.
+ along with this library; if not, see https://www.gnu.org/licenses/.
  .
  On Debian GNU/Linux systems, the complete text of the GNU Lesser General Public
  License can be found in `/usr/share/common-licenses/LGPL-3'.
@@ -490,7 +486,7 @@ License: AGPL-3+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
  .
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://www.fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
  .
@@ -1132,7 +1128,7 @@ License: AGPL-3+
     GNU Affero General Public License for more details.
  .
     You should have received a copy of the GNU Affero General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
  .
  Also add information on how to contact you by electronic and paper mail.
  .
@@ -1147,4 +1143,4 @@ License: AGPL-3+
  You should also get your employer (if you work as a programmer) or school,
  if any, to sign a "copyright disclaimer" for the program, if necessary.
  For more information on this, and how to apply and follow the GNU AGPL, see
- <http://www.gnu.org/licenses/>.
+ <https://www.gnu.org/licenses/>.
