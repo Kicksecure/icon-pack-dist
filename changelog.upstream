@@ -1,3 +1,43 @@
+commit 125b3dca4d5d9cc1514712e539bef9a3633bfe51
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Dec 26 06:09:40 2025 -0500
+
+    update links
+
+commit 8a4af965857c2d8bdbc09186eefee431c56a7c74
+Merge: ef6ad91 db1c649
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Dec 26 06:08:58 2025 -0500
+
+    Merge remote-tracking branch 'github-kicksecure/master'
+
+commit db1c6495c28a493219205338ced6a10b9782ea94
+Merge: ef6ad91 13994a8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Dec 26 06:07:46 2025 -0500
+
+    Merge pull request #1 from Nurmagoz/patch-1
+    
+    Upgrading all links to either working ones or the archived
+
+commit 13994a8334fdefd694654a0c1c1012ac8ceecfaa
+Author: Nurmagoz <11895339+Nurmagoz@users.noreply.github.com>
+Date:   Fri Dec 26 10:56:58 2025 +0000
+
+    Upgrading all links to either working ones or the archived
+    
+    Note: Some websites are not archived nor they exist anymore e.g:
+    
+    http://findicons.com/icon/84698/firewall?id=85058
+    
+    so either we say its redirecting nowadays to xyz or remove it and see alternatives or keep it as is.
+
+commit ef6ad914f088de624bfb55d168147fe8cbc2ca44
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Sep 19 16:13:07 2025 +0000
+
+    bumped changelog version
+
 commit 1fe732c0763b6b0810d1f37e661f0c547c8b20c2
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Sep 18 10:07:31 2025 -0400
