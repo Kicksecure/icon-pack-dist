@@ -161,28 +161,28 @@ Comment:
         https://web.archive.org/web/20130308234314/https://www.torproject.org/images/screenshot_arm_page1_cropped.png
 
 Files: usr/share/icons/icon-pack-dist/firewall.png
-Copyright: Bdate Kaspar/Franziska Sponsel - https://web.archive.org/web/20110826102204/http://rrze-icon-set.berlios.de/index.html
+Copyright: alecive (Alessandro Roncone) - https://www.iconarchive.com/artist/alecive.html
 Comment:
     Downloaded from:
-        http://findicons.com/icon/84698/firewall?id=85058
-    Designer: Bdate Kaspar/Franziska Sponsel
-License: CC-BY-3.0
+        https://www.iconarchive.com/show/flatwoken-icons-by-alecive/Apps-Firewall-icon.html
+    Designer: alecive (Alessandro Roncone)
+License: CC Attribution-Share Alike 4.0
 
-Files: usr/share/icons/icon-pack-dist/power_restart.ico
-Copyright: chrfb - https://web.archive.org/web/20181211112023/https://www.deviantart.com/chrfb
+Files: usr/share/icons/icon-pack-dist/power_restart.png
+Copyright: icons8 - https://www.iconarchive.com/artist/icons8.html
 Comment:
     Downloaded from:
-        http://findicons.com/icon/198204/power_restart?id=198637
-    Designer: chrfb
-License: CC-BY-3.0
+        https://www.iconarchive.com/show/windows-8-icons-by-icons8/Computer-Hardware-Restart-icon.html
+    Designer: icons8
+License: https://icons8.com/license (https://web.archive.org/web/20260102200857/https://icons8.com/license)
 
 Files: usr/share/icons/icon-pack-dist/quick_restart.ico
-Copyright: YellowIcon - https://web.archive.org/web/20130325080842/http://www.yellowicon.com/
+Copyright: Everaldo - https://www.iconarchive.com/artist/everaldo.html
 Comment:
     Downloaded from:
-        http://findicons.com/icon/169828/quick_restart?id=171792
-    Designer: YellowIcon
-License: GPL-3
+        https://www.iconarchive.com/show/crystal-clear-icons-by-everaldo/App-Quick-restart-icon.html
+    Designer: Everaldo
+License: LGPL
 
 Files: usr/share/icons/icon-pack-dist/Saki-NuoveXT-2-Actions-stop.ico
 Copyright: Saki - https://web.archive.org/web/20130202140728/http://www.iconarchive.com/artist/saki.html
@@ -192,35 +192,35 @@ Comment:
     Artist: Saki
 License: GPL-3
 
-Files: usr/share/icons/icon-pack-dist/text_x_makefile.ico
-Copyright: Oxygen Team - https://web.archive.org/web/20130203023402/http://www.oxygen-icons.org/
+Files: usr/share/icons/icon-pack-dist/text_x_makefile.png
+Copyright: Oxygen Team - https://www.iconarchive.com/artist/oxygen-icons.org.html
 Comment:
     Downloaded from:
-        http://findicons.com/icon/237880/text_x_makefile?id=395569
+        https://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Mimetypes-text-x-makefile-icon.html
     Designer: Oxygen Team
-License: GPL-3
+License: LGPL
 
-Files: usr/share/icons/icon-pack-dist/advancedsettings.ico
-Copyright: YellowIcon - http://yellowicon.com/
+Files: usr/share/icons/icon-pack-dist/advancedsettings.png
+Copyright: Oxygen Team - https://www.iconarchive.com/artist/oxygen-icons.org.html
 Comment:
     Downloaded from:
-        https://web.archive.org/web/20210420052255/http://findicons.com/icon/168533/advancedsettings?id=391891
-    Designer: YellowIcon
-License: GPL-3
+        https://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Categories-preferences-system-icon.html
+    Designer: Oxygen Team
+License: LGPL
 
-Files: usr/share/icons/icon-pack-dist/restart.ico
+Files: usr/share/icons/icon-pack-dist/restart.png
 Copyright:
     Downloaded from:
-        http://findicons.com/icon/169219/restart?id=169219
-License: GPL-3
+        https://www.iconarchive.com/show/folded-icons-by-graphicloads/thunder-folded-icon.html
+License: Freeware - CC0 1.0 Universal
 
-Files: usr/share/icons/icon-pack-dist/nerolinux.ico
-Copyright: schollidesign - http://schollidesign.deviantart.com/
+Files: usr/share/icons/icon-pack-dist/nerolinux.png
+Copyright: Arrioch - https://www.iconarchive.com/artist/arrioch.html
 Comment:
     Downloaded from:
-        http://findicons.com/icon/93644/nerolinux?id=274498
-    Designer: schollidesign
-License: GPL-3
+        https://www.iconarchive.com/show/orbz-icons-by-arrioch/orbz-fire-icon.html
+    Designer: Arrioch
+License: CC Attribution-Noncommercial-No Derivate 4.0
 
 Files: usr/share/icons/icon-pack-dist/chat.png
 Copyright: Alessandro Rei - https://web.archive.org/web/20130412024009/http://www.kde-look.org/usermanager/search.php?username=mentalrey
